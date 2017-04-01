@@ -1,8 +1,5 @@
 package main.java;
 
-/**
- * Created by markc on 28/01/17.
- */
 public class Item30 {
     @Override
     public String toString() {
